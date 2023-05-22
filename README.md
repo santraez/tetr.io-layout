@@ -1,19 +1,15 @@
-# trtr.io Home Layout
+<div align="center">
+  <h1 style="font-size: 48px;">TETR.IO HOME LAYOUT</h1>
+  <h3 style="font-size: 48px;">layout of the home page for tetr.io..</h3>
+</div>
 
-This repository contains the layout of the home page for trtr.io, a popular website for playing Tetris. The layout is implemented using HTML and CSS only.
+This repository contains the layout of the home page for tetr.io, a popular website for playing Tetris. The layout is implemented using HTML and CSS only.
 
-![trtr.io Home](screenshots/trtrio_home.png)
+![trtr.io Home](https://raw.githubusercontent.com/santraez/tetr.io-layout/main/assets/result.png)
 
 ## Description
 
-The home layout is designed to provide a visually appealing and user-friendly experience for visitors. It showcases the key features and branding of trtr.io.
-
-## Features
-
-- Clean and modern design
-- Responsive layout for different screen sizes
-- Intuitive navigation menu
-- Prominent call-to-action buttons
+The home layout is designed to provide a visually appealing and user-friendly experience for visitors. It showcases the key features and branding of tetr.io.
 
 ## Technologies Used
 
@@ -24,16 +20,8 @@ The home layout is designed to provide a visually appealing and user-friendly ex
 
 To view the home layout, follow these steps:
 
-1. Clone this repository: `git clone https://github.com/your-username/trtrio-home-layout.git`
+1. Clone this repository: `git clone https://github.com/santraez/tetr.io-layout`
 2. Open the `index.html` file in your web browser.
-
-## Screenshots
-
-Here are some additional screenshots of the trtr.io home layout:
-
-- ![Screenshot 1](screenshots/screenshot1.png)
-- ![Screenshot 2](screenshots/screenshot2.png)
-- ![Screenshot 3](screenshots/screenshot3.png)
 
 Feel free to explore the code and customize it according to your needs.
 
@@ -43,6 +31,6 @@ Contributions are welcome! If you have any suggestions or improvements, please o
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [MIT License](https://github.com/santraez/tetr.io-layout/blob/main/LICENSE).
 
 
