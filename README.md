@@ -29,6 +29,10 @@ Feel free to explore the code and customize it according to your needs.
 
 Contributions are welcome! If you have any suggestions or improvements, please open an issue or submit a pull request.
 
+## Donation
+
+[Buy Me a Coffee](https://bmc.link/santraez) ☕ 
+
 ## License
 
 This project is licensed under the [MIT License](https://github.com/santraez/tetr.io-layout/blob/main/LICENSE).
